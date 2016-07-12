@@ -1,5 +1,5 @@
 {
-    "name": "despark/laravel-db-localization",
+    "name": "astoimenov/laravel-db-localization",
     "description": "Database localization package for laravel framework",
     "keywords": ["framework", "laravel", "despark", "localization", "database"],
     "license": "MIT",
